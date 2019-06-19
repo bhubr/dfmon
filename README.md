@@ -7,6 +7,9 @@ A tiny, quick'n'dirty Node.js-based disk space monitor.
 
 Usage:
 
+First, clone this repo, then copy `settings.sample.js` to `settings.js` and modify the settings accordingly.
+
+Lastly, run:
 ```
 npm install
 npm install -g pm2
